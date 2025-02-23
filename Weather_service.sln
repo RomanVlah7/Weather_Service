@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather_service", "Weather_service\Weather_service.csproj", "{69F24A4C-C357-4BF8-ABA9-20CD1B234E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification_service", "Notification_service\Notification_service.csproj", "{12BDDF29-8B12-4900-A4AC-B6060B134C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F24A4C-C357-4BF8-ABA9-20CD1B234E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F24A4C-C357-4BF8-ABA9-20CD1B234E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F24A4C-C357-4BF8-ABA9-20CD1B234E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F24A4C-C357-4BF8-ABA9-20CD1B234E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BDDF29-8B12-4900-A4AC-B6060B134C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BDDF29-8B12-4900-A4AC-B6060B134C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BDDF29-8B12-4900-A4AC-B6060B134C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BDDF29-8B12-4900-A4AC-B6060B134C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
